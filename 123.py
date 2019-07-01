@@ -2,7 +2,7 @@
 # -*- coding=utf-8 -*-
 # write by Dening
 
-
+print('welcome to python')
 
 
 if __name__ == '__main__':
