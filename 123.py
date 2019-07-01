@@ -3,7 +3,7 @@
 # write by Dening
 
 print('welcome to python')
-
+print('test pycharm')
 
 if __name__ == '__main__':
     pass
